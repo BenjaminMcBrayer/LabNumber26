@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+h1 {
+	color: maroon;
+	font-family: 'Tangerine', serif;
+	font-size: 48px;
+	text-shadow: 4px 4px 4px #aaa;
+	font-weight: bolder;
+}
+
+#firstname, #lastname, #email, #phonenumber, #birthdate, #register {
+	width: 50%;
+}
+
+#search {
+	text-align: right;	
+}
+
+#login {
+	font-size: 14px;
+}
